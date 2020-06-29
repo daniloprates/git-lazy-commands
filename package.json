@@ -1,0 +1,23 @@
+{
+  "name": "git-lazy",
+  "version": "1.0.0",
+  "description": "Short Git commands for lazy people",
+  "main": "index.js",
+  "bin": {
+    "gl": "index.js",
+    "git-lazy": "index.js"
+  },
+  "author": "Danilo Prates <daniloprates@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprates/git-lazy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniloprates/git-lazy/issues"
+  },
+  "homepage": "https://github.com/daniloprates/git-lazy#readme",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
